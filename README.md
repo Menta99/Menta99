@@ -32,9 +32,9 @@ I'm actually exploring and studying the following fields:
 
 ### About me
 
-- I'm currently working on too many projects
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/job.png" width="25"></a> I'm currently working on too many projects
 
-- I'm probably listening to some moody song or watching fancy video  
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/media.png" width="25"></a> I'm probably listening to some moody song or watching fancy video  
 
 - <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/ideas.png" width="25"></a> I'm surely thinking about new ideas
 
