@@ -2,19 +2,30 @@
 
 I'm a M.Sc. Student of Computer Science and Engineering at Politecnico di Milano.\
 I'm actually exploring and studying the following fields:
-- Artificial Intelligence
-- Machine Learning 
-- Reinforcement Learning
-- Deep Learning
-- Data Mining
-- Natural Language Processing
-- Recommender Systems
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img  src="Assets/artificial_intelligence.png" width="25"></a> Artificial Intelligence
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/machine_learning.png" width="25"></a> Machine Learning 
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/reinforcement_learning.png" width="25"></a> Reinforcement Learning
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/deep_learning.png" width="25"></a> Deep Learning
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/data_mining.png" width="25"></a> Data Mining
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/natural_language_processing.png" width="25"></a> Natural Language Processing
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/recommender_systems.png" width="25"></a> Recommender Systems
+
 
 ---
 
 ### Interesting Projects
+
 - [`Santorini`](https://github.com/Menta99/ing-sw-2020-menta-nisti-manocchio) : Client-Server version of Santorini board game (GUI + CLI)
+
 - [`RecSys2021`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
+
 - [`Gamified-WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
 
 ---
@@ -22,9 +33,12 @@ I'm actually exploring and studying the following fields:
 ### About me
 
 - I'm currently working on too many projects
+
 - I'm probably listening to some moody song or watching fancy video  
-- I'm surely thinking about new ideas
-- I created a podcast called [`La Carota`](https://open.spotify.com/show/3iGKEIh2kDLkyVM4IVWwks?si=039999db099747d5) with a couple of friends 
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/ideas.png" width="25"></a> I'm surely thinking about new ideas
+
+- <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/carrot.png" width="25"></a> I created a podcast called [`La Carota`](https://open.spotify.com/show/3iGKEIh2kDLkyVM4IVWwks?si=039999db099747d5) with a couple of friends 
 
 
 ---
