@@ -45,7 +45,7 @@ I'm actually exploring and studying the following fields:
 
 ### Get in touch with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentaandrea99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-menta-244653239/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mentaandrea99/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.instagram.com/mentaandrea99/)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/Menta99?color=orange&logo=reddit&logoColor=orange&style=for-the-badge)](https://www.reddit.com/user/Menta99)
