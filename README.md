@@ -28,6 +28,8 @@ I'm actually exploring and studying the following fields:
 
 - [`Deep Learning Challenges`](https://github.com/Menta99/an2dl-ali-menta-sorrentino) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
 
+- [`Deep RL Survery`](https://github.com/Menta99/Advanced_Deep_Learning_Models_and_Methods-Menta-Nisti) : A Survey on Deep Reinforcement Learning Models applied to Zero-Sum Games
+
 - [`Gamified-WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
 
 ---
