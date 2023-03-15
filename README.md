@@ -24,6 +24,8 @@ I'm actually exploring and studying the following fields:
 
 - [`Deep RL Survery`](https://github.com/Menta99/Advanced_Deep_Learning_Models_and_Methods-Menta-Nisti) : A Survey on Deep Reinforcement Learning Models applied to Zero-Sum Games
 
+- [`ACM RecSys2022 Challenge`](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team) : Fashion Domain Session-Based Recommender System
+
 - [`Santorini`](https://github.com/Menta99/ing-sw-2020-menta-nisti-manocchio) : Client-Server version of Santorini board game (GUI + CLI)
 
 - [`RecSys2021`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
