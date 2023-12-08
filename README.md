@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea
 
-I'm a M.Sc. Student of Computer Science and Engineering at Politecnico di Milano.\
+I recently completed my MSc in Computer Science and Engineering at Politecnico di Milano.\
 I'm actually exploring and studying the following fields:
 
 <a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/artificial_intelligence.png" valign="middle" width="25"></a> Artificial Intelligence
@@ -21,6 +21,8 @@ I'm actually exploring and studying the following fields:
 ---
 
 ### Interesting Projects
+
+- [`Latent Neural Cellular Automata`](https://github.com/Menta99/Thesis) : Master's thesis project about requirements optimization of Neural Cellular Automata applied to Image Restoration
 
 - [`Deep RL Survery`](https://github.com/Menta99/Advanced_Deep_Learning_Models_and_Methods-Menta-Nisti) : A Survey on Deep Reinforcement Learning Models applied to Zero-Sum Games
 
