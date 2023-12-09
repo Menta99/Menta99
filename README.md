@@ -22,7 +22,7 @@ I'm actually exploring and studying the following fields:
 
 ### Interesting Projects
 
-- [`Latent Neural Cellular Automata`](https://github.com/Menta99/Thesis) : Thesis project on requirements optimization of Neural Cellular Automata applied to Image Restoration
+- [`Latent Neural Cellular Automata`](https://github.com/Menta99/Thesis-Project) : Thesis project on requirements optimization of Neural Cellular Automata applied to Image Restoration
 
 - [`Deep RL Survery`](https://github.com/Menta99/Advanced_Deep_Learning_Models_and_Methods-Menta-Nisti) : A Survey on Deep Reinforcement Learning Models applied to Zero-Sum Games
 
