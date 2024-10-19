@@ -1,22 +1,7 @@
-# Hi there, I'm Andrea
+# Hello there, I'm Andrea
 
-I recently completed my MSc in Computer Science and Engineering at Politecnico di Milano.\
-I'm actually exploring and studying the following fields:
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/artificial_intelligence.png" valign="middle" width="25"></a> Artificial Intelligence
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/machine_learning.png" valign="middle" width="25"></a> Machine Learning 
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/reinforcement_learning.png" valign="middle" width="25"></a> Reinforcement Learning
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/deep_learning.png" valign="middle" width="25"></a> Deep Learning
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/data_mining.png" valign="middle" width="25"></a> Data Mining
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/natural_language_processing.png" valign="middle" width="25"></a> Natural Language Processing
-
-<a href="https://www.flaticon.com/authors/juicy-fish"><img src="Assets/recommender_systems.png" valign="middle" width="25"></a> Recommender Systems
-
+I'm a Ph.D. Student in Computer Science and Engineering at Politecnico di Milano.\
+My research interests lie in Machine and Deep Learning, focusing on Multi-Agent Reinforcement Learning.
 
 ---
 
@@ -33,8 +18,6 @@ I'm actually exploring and studying the following fields:
 - [`RecSys2021`](https://github.com/Menta99/RecSys2021_Mainetti_Menta) : TV Series/Movie Recommender System
 
 - [`Deep Learning Challenges`](https://github.com/Menta99/an2dl-ali-menta-sorrentino) : Deep Learning Models for Image Classification, Image Segmentation and Visual Question Answering
-
-- [`Gamified-WebApp`](https://github.com/LorenzoMainetti/gamified-webapp-lisi-mainetti-menta) : Gamified version of Consumer Data Collection
 
 ---
 
